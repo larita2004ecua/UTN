@@ -1,0 +1,5 @@
+{
+  "name": "FLACSO Guía de pagos",
+  "description": "An interactive, step-by-step guide for managing payment processes at FLACSO Ecuador. This web application clarifies procedures for invoicing, professional fees, travel expenses, reimbursements, and more, based on the official administrative and financial guidelines.",
+  "requestFramePermissions": []
+}
